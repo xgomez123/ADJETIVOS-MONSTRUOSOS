@@ -139,7 +139,7 @@
                 question: "El personaje Blobby era:",
                 options: ["Desorganizado", "Brillante", "Pegajoso", "Hiperactivo", "Inmóvil"],
                 correctAnswer: "Pegajoso",
-                background: "https://static.wikia.nocookie.net/hoteltransylvania/images/6/6f/FolPCVQsqwk-removebg-preview.png/revision/latest?cb=20210603020004"
+                background: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkOe1_6fpRig2U3OxpPDiDUDdPRjcFkgAwZA&usqp=CAU"
             },
             {
                 question: "La atmosfera en el Hotel Transilvania era:",
@@ -151,7 +151,7 @@
                 question: "La amistad entre Mavis y Jonathan era:",
                 options: ["Aterradora", "Encantadora", "Desastrosa", "Caótica"],
                 correctAnswer: "Encantadora",
-                background: "https://files.lafm.com.co/assets/public/styles/twitter/public/2022-01/hotel_transylvania.jpg.webp?VersionId=n6NkVSGEAzB46gpO9tQXjUydipfEfq09&itok=lRxaekD6"
+                background: "https://www.agendapop.cl/wp-content/uploads/2017/02/hotel_transylvania-800x445.jpg"
             },
         ];
 
